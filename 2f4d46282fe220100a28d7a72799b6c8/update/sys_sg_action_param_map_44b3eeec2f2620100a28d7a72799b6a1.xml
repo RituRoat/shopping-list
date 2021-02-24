@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (store)">0cb3eeec2f2620100a28d7a72799b69f</button>
+        <item_parameter display_value="store store_name">84b3eeec2f2620100a28d7a72799b69e</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Ritu</sys_created_by>
+        <sys_created_on>2021-02-22 11:09:51</sys_created_on>
+        <sys_id>44b3eeec2f2620100a28d7a72799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>84b3eeec2f2620100a28d7a72799b69e</sys_name>
+        <sys_package display_value="Shopping List" source="x_459176_shopping">2f4d46282fe220100a28d7a72799b6c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">2f4d46282fe220100a28d7a72799b6c8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_44b3eeec2f2620100a28d7a72799b6a1</sys_update_name>
+        <sys_updated_by>Ritu</sys_updated_by>
+        <sys_updated_on>2021-02-22 11:09:51</sys_updated_on>
+        <ui_parameter display_value="Store name">00b3eeec2f2620100a28d7a72799b6a0</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
